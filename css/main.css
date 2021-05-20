@@ -310,7 +310,7 @@ body{
 .hero-scroll{
   position: absolute;
   left: 0;
-  bottom: 50px;
+  bottom: 80px;
   height: 25px;
   width: 100%;
   background: url("../img/scroll.svg") no-repeat center center;
