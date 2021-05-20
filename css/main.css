@@ -440,6 +440,10 @@ body{
     align-items: center;
   }
 
+  .section.s2 .container{
+    flex-direction: column-reverse;
+  }
+
   .section.s3 .container{
     flex-direction: column-reverse;
     align-items: flex-start;
