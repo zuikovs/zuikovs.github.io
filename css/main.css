@@ -369,9 +369,8 @@ body{
   line-height: 2rem;
 }
 
-.section p span{
+.section p b{
   color: #C69E84;
-  font-weight: bold;
 }
 
 
