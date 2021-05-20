@@ -448,4 +448,8 @@ body{
     flex-direction: column-reverse;
     align-items: flex-start;
   }
+
+  .section.s3 .section-part:first-child{
+    margin-right: 0;
+  }
 }
