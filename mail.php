@@ -14,6 +14,8 @@ $headers .= "Content-type: text/html; charset=UTF-8\r\n";
 $headers .= "WEB From: <".$from. ">" ;
 
 mail($to,$subject,$msg,$headers);
-echo "Mail Sent.";
+
+header("Location: http://startrealinvest.eu");
+die();
 
 ?>
