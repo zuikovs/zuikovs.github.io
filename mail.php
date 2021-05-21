@@ -3,7 +3,7 @@
 //Mail sending function
 $subject = $_POST['name'];
 $from = $_POST['email'];
-$to = "fakeko9889@sc2hub.com";
+$to = "info@startrealinvest.eu";
 
 //data
 $msg = $_POST['message'];
