@@ -453,7 +453,11 @@ body{
   border: 1px solid #C69E84;
 }
 
-.footer-email{}
+.footer-email a{
+  color: inherit;
+  text-decoration: none;
+}
+
 .footer-email span{
   color: #C69E84;
 }
