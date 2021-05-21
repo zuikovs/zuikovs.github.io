@@ -45,11 +45,17 @@
       <workItem from="1621530269080" duration="7491000" />
       <workItem from="1621540346411" duration="1210000" />
       <workItem from="1621606965859" duration="27000" />
-      <workItem from="1621607007186" duration="1192000" />
+      <workItem from="1621607007186" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1083" y="643" key="NewPhpFileDialog" timestamp="1621608309121">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1083" y="643" key="NewPhpFileDialog/0.0.2498.1440/-1858.197.1858.1080@0.0.2498.1440" timestamp="1621608309121" />
   </component>
 </project>
