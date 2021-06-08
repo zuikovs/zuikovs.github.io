@@ -15,7 +15,7 @@ $headers .= "WEB From: <".$from. ">" ;
 
 mail($to,$subject,$msg,$headers);
 
-header("Location: http://startrealinvest.eu");
+header("Location: https://startrealinvest.eu");
 die();
 
 ?>
